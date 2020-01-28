@@ -1,0 +1,9 @@
+{
+    "character": [
+        { "id": 1, "title": "Kanye West", "image": "../img/kanye.jpg", "text": "Vestibulum diam ante, porttitor a odio eget, rhoncus neque. Aenean eu velit libero.", "up": "34", "down": "66", "total": 100, "category": "entertainment" },
+        { "id": 2, "title": "Mark Zuckerberg", "image": "../img/mark.png", "text": "Vestibulum diam ante, porttitor a odio eget, rhoncus neque. Aenean eu velit libero.", "up": "54", "down": "46", "total": 100, "category": "politics" },
+        { "id": 3, "title": "Cristina Fernandez de Kirschner", "image": "'../img/cristina.jpeg'", "text": "Vestibulum diam ante, porttitor a odio eget, rhoncus neque. Aenean eu velit libero.", "up": "34", "down": "66", "total": 100, "category": "politics" },
+        { "id": 4, "title": "Malala", "image": "'../img/malala.png'", "text": "Vestibulum diam ante, porttitor a odio eget, rhoncus neque. Aenean eu velit libero.", "up": "54", "down": "46", "total": 100, "category": "entertainment" }
+    ]
+
+}

@@ -1,24 +1,20 @@
 # zemoga3
 
 ## Project setup
+in order to run the project run:
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
+json-server --watch db.json
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+now you are ready to go
 
-### Lints and fixes files
-```
-npm run lint
-```
+### missing parts ###
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+the data of the votes is not being saved, 
